@@ -11,5 +11,3 @@
 * On-Premise to Cloud Migrations
 
 email info at jps25 dot com
-
-{% include schedule.html %}
